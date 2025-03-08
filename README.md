@@ -1,4 +1,4 @@
-# 🛒 Amazon Clone Website
+# 🛒 Amazon Website Clone
 
 This project is a simple Amazon clone created using HTML, CSS, and JavaScript. It replicates Amazon's homepage layout, showcasing product listings, banners, and a user-friendly navigation system.
 
@@ -24,7 +24,7 @@ This project is a simple Amazon clone created using HTML, CSS, and JavaScript. I
 
 ---
 
-## 📸 Screenshots
+## 📸 🖼️ Preview
 
 ![image](https://github.com/user-attachments/assets/3635ccf5-ffd9-4403-bce0-a12382e6618c)
 
