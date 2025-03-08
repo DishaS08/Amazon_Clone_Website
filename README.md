@@ -1,33 +1,43 @@
-# Basic Resume Template
+# 🛒 Amazon Clone Website
 
-This is a simple HTML and CSS-based resume template. It is designed to be clean, minimalistic, and easy to customize.
+This project is a simple Amazon clone created using HTML, CSS, and JavaScript. It replicates Amazon's homepage layout, showcasing product listings, banners, and a user-friendly navigation system.
+
+---
 
 ## 🚀 Features
-- Clear and structured layout
-- Easy-to-edit HTML and CSS files
-- Includes key sections like Education, Skills, Projects, and Contact Information
+✅ Responsive design for mobile and desktop  
+✅ Interactive product cards  
+✅ Functional navigation bar  
+✅ Clean and organized code structure  
+
+---
 
 ## 📂 Project Structure
-  ```
-  📂 Basic_Resume_Template
-  ├── index.html       ➔ Main resume template
-  ├── styles.css       ➔ Styling for the resume
-  └── README.md        ➔ Project documentation
+```
+ 📂 Amazon_Clone_Website
+ ├── index.html ➔ Main Amazon clone template
+ ├── styles.css ➔ Styling for the website
+ ├── script.js ➔ Interactive features and functionality
+ ├── assets/ ➔ Images, icons, and other media
+ └── README.md ➔ Project documentation
 ```
 
-## 🔧 How to Use
-1. Clone the repository:  
-git clone https://github.com/DishaS08/Basic_Resume_Template.git
+---
+
+## 📸 Screenshots
+
+![image](https://github.com/user-attachments/assets/3635ccf5-ffd9-4403-bce0-a12382e6618c)
+
+![image](https://github.com/user-attachments/assets/98b50196-8da9-429e-b196-8ac2bfd14341)
+
+---
+
+## 📋 How to Run
+1. Clone this repository:  
+git clone https://github.com/DishaS08/Amazon_Clone_Website.git
 
 2. Open `index.html` in your browser.
-  
-3. Customize the content in `index.html` and update styles in `styles.css` as needed.
 
+---
 
-## 🖼️ Preview
-
-![image](https://github.com/user-attachments/assets/fa5e946b-59b8-46eb-bdcf-e7a52afbc43b)
-
-
-## 📬 Contact
-If you have any questions or suggestions, feel free to reach out!
+## 💬 Feel free to explore, modify, and improve this project. Contributions are welcome! 😊
